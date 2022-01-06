@@ -1,0 +1,19 @@
+{
+    "name": "interludesante/tinymce-enhanced",
+    "description": "This plugin adds advanced features to the TinyMCE text editor.",
+    "type": "wordpress-plugin",
+    "version": "1.0.0",
+    "license": "GPLv3",
+    "authors": [
+        {
+        "name": "Interlude santé",
+        "email": "hello@interludesante.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.4"
+    }
+}
